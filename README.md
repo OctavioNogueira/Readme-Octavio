@@ -1,7 +1,7 @@
+<div align="center">
+  
 [![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=3642B5&text=Oct%C3%A1vio%20Nogueira&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tester%20%7C%20QA&descAlignY=58&descAlign=50)](https://github.com/OctavioNogueira)
 
-<div align="center">
-  [![Header](https://capsule-render.vercel.app/api?type=waving...)](https://github.com/OctavioNogueira)
 </div>
 
 <div align="center">
