@@ -14,9 +14,31 @@
 
 ### Sobre Mim
 
-Sou Tester | QA apaixonado por qualidade de software, atualmente expandindo meus conhecimentos para o mundo da automação de testes. Estudo automação com Java e JUnit, explorando boas práticas para tornar os processos de teste mais eficientes e confiáveis.
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Sou Tester QA apaixonado por qualidade de software, atualmente expandindo meus conhecimentos para o mundo da automação de testes. Estudo automação com Java e JUnit, explorando boas práticas para tornar os processos de teste mais eficientes e confiáveis. 
 
 Tenho experiência com testes manuais e ferramentas como Postman, Jira e SQL Server, e estou em constante evolução para me tornar um profissional cada vez mais completo na área de QA.
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" width="90%" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+
 
 ---
 
