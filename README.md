@@ -1,6 +1,10 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=3642B5&text=Oct%C3%A1vio%20Nogueira&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tester%20%7C%20QA&descAlignY=58&descAlign=50)](https://github.com/OctavioNogueira)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3642B5&center=true&vCenter=true&width=500&lines=Tester+%7C+QA;Aprendendo+Automa%C3%A7%C3%A3o+com+Java+%2B+JUnit;Garantindo+qualidade+em+cada+entrega)](https://github.com/OctavioNogueira)
+<div align="center">
+  <a href="https://github.com/OctavioNogueira">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Manual+Tester;Learn+Java+%2B+JUnit;Automation+Test+%7C+Python+%7C+SQL+%7C+Git" />
+  </a>
+</div>
 
 ---
 
